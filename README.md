@@ -141,6 +141,7 @@ A process that “starts then immediately shuts down” under `nohup` is usually
 ## What this is not
 
 - Not a guide to removing safety from models.
+- Not a guide for "super intelligence" or AGI
 - Not a guide to attacking Hetzner, Nginx, or Tailscale.
 - Not a claim that a 7B model is “aligned.”
 - Not legal advice. If you serve protected populations, talk to counsel about data retention and consent.
