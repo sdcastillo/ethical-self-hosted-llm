@@ -1,0 +1,9 @@
+# SamWiki skin on the Cayman theme.
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+title: Ethical Self-Hosted LLM
+description: Field notes from a Hetzner, Tailscale, Nginx, and Ollama build for nonprofit workforce training.
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
